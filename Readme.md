@@ -78,7 +78,8 @@ No credentials are required. Customer IDs and phone numbers are generated and va
 
 ## File Structure
 
-VehicleRentalSystem/
+VehicleRentalSystem
+
 ├── Car.h / Car.cpp
 
 ├── Truck.h / Truck.cpp
