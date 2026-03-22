@@ -126,6 +126,6 @@ Aayush Patel
 
 ### Developer:
 
-https://github.com/AayushPatel09/OOP-PROJECT.git
+https://github.com/AayushPatel09/Rental_Managment_Syatem.git
 
 Thank you for using the Vehicle Rental System
