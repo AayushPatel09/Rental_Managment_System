@@ -80,19 +80,33 @@ No credentials are required. Customer IDs and phone numbers are generated and va
 
 VehicleRentalSystem/
 ├── Car.h / Car.cpp
+
 ├── Truck.h / Truck.cpp
+
 ├── ElectricCar.h / ElectricCar.cpp
+
 ├── Vehicle.h / Vehicle.cpp
+
 ├── Customer.h / Customer.cpp
+
 ├── Rental.h / Rental.cpp
+
 ├── RentalManager.h / RentalManager.cpp
+
 ├── UIManager.h / UIManager.cpp
+
 ├── Utils.h / Utils.cpp
+
 ├── main.cpp
+
 ├── vehicles.txt # Preloaded vehicle data
+
 ├── customers.txt # Registered customer data
+
 ├── rentals.txt # Saved rentals
+
 └── README.md # Project documentation
+
 
 ---
 
